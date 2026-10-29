@@ -2,6 +2,8 @@
 
 ![Hoop Rush gameplay](assets/images/screenshot.png)
 
+**[▶ Play Hoop Rush on Scratch](https://scratch.mit.edu/projects/1397164859)**
+
 A basketball arcade mini-game made in Scratch for CS50x (Problem Set 0).
 Score 21 baskets before you miss three shots. The hoop moves faster with every basket.
 
@@ -118,4 +120,4 @@ The game is considered finished at v2 and will not be updated further.
 - `assets/images/` — screenshot, sprites and backdrops
 - `assets/audio/` — music and sound effects
 
-The Scratch project file is not published here.
+The project is playable on Scratch (link at the top); the `.sb3` file is not included in this repository.
